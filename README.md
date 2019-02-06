@@ -3,8 +3,8 @@ Nordic mythologycal 2D Platformer Videogame in which your shield can be your pla
 Graded with Honors.
 
 Programmers:
-	Nil Llauradó
-	Ricard Cabezas
+	Nil Llauradó,
+	Ricard Cabezas,
 	Pol Vega
 
 Artist:
