@@ -2,6 +2,8 @@
 Nordic mythologycal 2D Platformer Videogame in which your shield can be your platform.
 >Graded with Honors.
 
+### [CLICK HERE](https://pol-vega.itch.io/thrud-thors-daughter-adventure) TO SEE THE GAME ON ITCH.IO
+
 
 ## Programmers:
 ####   •[Nil Llauradó](https://twitter.com/BokerGameDev)
@@ -13,6 +15,3 @@ Nordic mythologycal 2D Platformer Videogame in which your shield can be your pla
 
 ## Game Designer:
 ####   •[Álvaro Colom](https://alvaro-trikyname-colom.webnode.es)
-
-
-### [CLICK HERE](https://pol-vega.itch.io/thrud-thors-daughter-adventure) TO SEE THE GAME ON ITCH.IO
